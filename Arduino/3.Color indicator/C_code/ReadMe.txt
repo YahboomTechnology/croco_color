@@ -1,0 +1,1 @@
+This program can only recognize three colors of red, green and blue.
